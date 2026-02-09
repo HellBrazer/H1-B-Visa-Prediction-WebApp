@@ -1,5 +1,7 @@
 # H1-B-VISA-APPROVAL
 
+<img width="770" height="431" alt="image" src="https://github.com/user-attachments/assets/50ba6be4-28a9-4d10-86cf-e1860ca927e5" />
+
 The H1-B Visa is the most sought-after non-immigrant visa that allows foreign workers to work in the United States in a speciality occupation.
 In 2019, more than 1 million applicants applied for an H-1B visa including new applications, renewals and transfer of H1-B to
 another company. There were more than 180,000 new applicants for H1-B, however, only 80,000 applications were picked up in
